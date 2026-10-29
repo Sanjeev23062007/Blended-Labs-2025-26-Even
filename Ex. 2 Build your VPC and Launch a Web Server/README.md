@@ -21,8 +21,7 @@ The objective of this experiment is to understand how to design and configure a 
 
 ---
 
-## Tools Used<img width="1247" height="606" alt="687753120-ad01a1bf-085b-4758-96da-25ca51ad033f" src="https://github.com/user-attachments/assets/47bdf393-d50a-4918-a082-2f50aa70a7da" />
-
+## Tools Used
 
 * AWS Management Console
 * Amazon VPC

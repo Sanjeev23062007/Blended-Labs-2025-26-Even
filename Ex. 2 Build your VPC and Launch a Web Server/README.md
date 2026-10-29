@@ -21,7 +21,8 @@ The objective of this experiment is to understand how to design and configure a 
 
 ---
 
-## Tools Used
+## Tools Used<img width="1247" height="606" alt="687753120-ad01a1bf-085b-4758-96da-25ca51ad033f" src="https://github.com/user-attachments/assets/47bdf393-d50a-4918-a082-2f50aa70a7da" />
+
 
 * AWS Management Console
 * Amazon VPC
@@ -101,19 +102,19 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+
+<img width="1247" height="606" alt="687753120-ad01a1bf-085b-4758-96da-25ca51ad033f" src="https://github.com/user-attachments/assets/86e82c08-9734-4eca-bbba-06f9552b82a4" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
-
+<img width="1255" height="634" alt="687753360-5b8c84d5-ebdd-4e34-b97b-44b33476206d" src="https://github.com/user-attachments/assets/482c290d-bc8c-407f-bcf5-fbe16ddcebfe" />
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1170" height="710" alt="687753705-c53b8670-2271-4ac2-99a6-6aa6270b1be9" src="https://github.com/user-attachments/assets/a70e1c65-9e83-411d-9e26-bff4f6d1a6a5" />
 
 ---
 

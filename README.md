@@ -75,7 +75,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 **Course:** Introduction to Cloud Computing  
 
 
-# Build Your VPC and Launch a Web Server (AWS) 
+# Ex. 2 Build your VPC and Launch a Web Server (AWS) 
 
 ## Author
 

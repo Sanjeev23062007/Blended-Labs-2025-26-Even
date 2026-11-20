@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Sanjeev A
+* **Register Number**: 21222420246
+* **Date of Submission**: 20.11.2026
 
 ---
 
@@ -78,13 +78,15 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create a 1 GiB gp2 EBS volume in the AWS EC2 console.
+2. Attach the EBS volume to the running EC2 instance as /dev/sdb.
+3. Connect to the EC2 instance using AWS Systems Manager Session Manager.
+4. Format the attached volume using the ext3 filesystem.
+5. Create the /mnt/data-store directory and mount the EBS volume.
+6. Configure /etc/fstab for persistent mounting of the EBS volume.
+7. Verify the mounted volume using the df -h command.
+8. Create a test file in /mnt/data-store and verify its contents.
+9. Verify that the data remains available after remounting/rebooting the instance.
 
 ---
 

@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Sanjeev A
+* **Register Number**: 212224230246
+* **Date of Submission**: 21.11.2026
 
 ---
 
@@ -80,15 +80,17 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ---
 
-## Workflow (Student Explanation)
+## ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1. Created a security group for the RDS database and configured MySQL/Aurora access on port 3306 from the Web Security Group.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2. Created a DB subnet group using the Lab VPC and selected subnets from two Availability Zones for the database.
+
+3. Created a MySQL Amazon RDS instance named `lab-db` with the required database, username, password, storage, instance class, VPC, and security group settings.
+
+4. Waited for the RDS instance to become available and obtained its endpoint and connectivity details from the RDS console.
+
+5. Opened the provided WebServer application, selected the RDS option, entered the database endpoint and credentials, and connected to the database to display and interact with the Address Book data.
 
 ---
 
@@ -96,19 +98,22 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot 2026-11-21 083909" src="https://github.com/user-attachments/assets/73fe962e-6a44-4947-a7bf-beffdba7ed48" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot 2026-11-21 083919" src="https://github.com/user-attachments/assets/9f38d506-9831-4ac7-a7aa-6b727c300834" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot 2026-11-21 084739" src="https://github.com/user-attachments/assets/26f60db1-897c-494f-8a2c-c911e917253b" />
+
 
 ---
 

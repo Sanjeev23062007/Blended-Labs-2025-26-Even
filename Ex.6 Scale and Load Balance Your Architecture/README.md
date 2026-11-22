@@ -83,12 +83,13 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ## Output Screenshots 
 <img width="1920" height="1200" alt="Screenshot 2026-11-22 152704" src="https://github.com/user-attachments/assets/c2d0c7a1-8bcf-4f9b-818c-bfd3951a8312" />
-<img width="1920" height="1145" alt="Screenshot 2026-11-22 165745" src="https://github.com/user-attachments/assets/c6fb10b8-b5d0-45e7-8763-301a18341a97" />
+<img width="1920" height="1084" alt="Screenshot 2026-11-22 160701" src="https://github.com/user-attachments/assets/bd41c8c3-a709-4f57-a73c-21bc6ec84f43" />
 <img width="1920" height="1146" alt="Screenshot 2026-11-22 164621" src="https://github.com/user-attachments/assets/99d0a011-fd28-4b3d-aa6c-37194c94ee65" />
+<img width="1920" height="1145" alt="Screenshot 2026-11-22 165745" src="https://github.com/user-attachments/assets/c6fb10b8-b5d0-45e7-8763-301a18341a97" />
 <img width="1920" height="1145" alt="Screenshot 2026-11-22 164458" src="https://github.com/user-attachments/assets/eb7f0f93-93a2-4eb1-a528-adede50fcbec" />
 <img width="1920" height="1200" alt="Screenshot 2026-11-22 161904" src="https://github.com/user-attachments/assets/b4121074-1be8-4469-a649-dc7eae8fe699" />
 <img width="1920" height="1200" alt="Screenshot 2026-11-22 161533" src="https://github.com/user-attachments/assets/cf3fd115-393c-4e45-8c50-bd79c573b9a1" />
-<img width="1920" height="1084" alt="Screenshot 2026-11-22 160701" src="https://github.com/user-attachments/assets/bd41c8c3-a709-4f57-a73c-21bc6ec84f43" />
+
 
 
 ---

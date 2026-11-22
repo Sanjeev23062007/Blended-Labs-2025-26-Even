@@ -82,13 +82,14 @@ Students test the setup by generating traffic and observing automatic scaling an
 ---
 
 ## Output Screenshots 
-<img width="1920" height="1200" alt="Screenshot 2026-11-22 152704" src="https://github.com/user-attachments/assets/c2d0c7a1-8bcf-4f9b-818c-bfd3951a8312" />
-<img width="1920" height="1084" alt="Screenshot 2026-11-22 160701" src="https://github.com/user-attachments/assets/bd41c8c3-a709-4f57-a73c-21bc6ec84f43" />
-<img width="1920" height="1146" alt="Screenshot 2026-11-22 164621" src="https://github.com/user-attachments/assets/99d0a011-fd28-4b3d-aa6c-37194c94ee65" />
-<img width="1920" height="1145" alt="Screenshot 2026-11-22 165745" src="https://github.com/user-attachments/assets/c6fb10b8-b5d0-45e7-8763-301a18341a97" />
-<img width="1920" height="1145" alt="Screenshot 2026-11-22 164458" src="https://github.com/user-attachments/assets/eb7f0f93-93a2-4eb1-a528-adede50fcbec" />
-<img width="1920" height="1200" alt="Screenshot 2026-11-22 161904" src="https://github.com/user-attachments/assets/b4121074-1be8-4469-a649-dc7eae8fe699" />
-<img width="1920" height="1200" alt="Screenshot 2026-11-22 161533" src="https://github.com/user-attachments/assets/cf3fd115-393c-4e45-8c50-bd79c573b9a1" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-22 152704" src="https://github.com/user-attachments/assets/67f2d220-95ee-4c33-b5be-4b58a32368e7" />
+<img width="1920" height="1084" alt="Screenshot 2026-11-22 160701" src="https://github.com/user-attachments/assets/5402a5d6-6096-4209-8638-3253b748f3ee" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-22 161533" src="https://github.com/user-attachments/assets/afc6f23f-726a-4bc2-aaf1-0c4b7075d802" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-22 161904" src="https://github.com/user-attachments/assets/ce15560d-5a34-4b8f-bb21-9bbe1cdb15fa" />
+<img width="1920" height="1145" alt="Screenshot 2026-11-22 164458" src="https://github.com/user-attachments/assets/ef4c2e56-0f93-40b4-95d2-4f24868d0522" />
+<img width="1920" height="1145" alt="Screenshot 2026-11-22 164458" src="https://github.com/user-attachments/assets/6880a37a-0663-4d7f-9fa8-3d74a15f4f9e" />
+<img width="1920" height="1146" alt="Screenshot 2026-11-22 164621" src="https://github.com/user-attachments/assets/b0ecf81d-0bd9-4ded-a33a-cdfa6774f801" />
+<img width="1920" height="1145" alt="Screenshot 2026-11-22 165745" src="https://github.com/user-attachments/assets/3ab2a243-c83b-4ef4-a841-aca8b36eb71c" />
 
 
 

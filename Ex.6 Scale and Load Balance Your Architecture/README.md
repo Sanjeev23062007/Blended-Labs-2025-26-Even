@@ -1,9 +1,10 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
-## Title
+## Author
 
-Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+* **Name**: Sanjeev A
+* **Register Number**: 212224230246
+* **Date of Submission**: 29.10.2026
 
 ---
 
